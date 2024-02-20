@@ -1,1 +1,1 @@
-<p>Registratipon Form using HTML, CSS, Node.js, and MongoDB.</p>
+<p>Registration Form using HTML, CSS, Node.js, and MongoDB.</p>
